@@ -21,7 +21,7 @@ body{
     /* background-color: bisque; */
 }
 .left-bar{
-    height: 200px;
+    height: 205px;
     width: 20px;
     background-color: aqua;
     animation-name: belowToUp;
@@ -35,7 +35,7 @@ body{
     
 }
 .right-bar{
-    height: 200px;
+    height: 205px;
     width: 20px;
     background-color: aqua;
     animation-name: belowToUp;
